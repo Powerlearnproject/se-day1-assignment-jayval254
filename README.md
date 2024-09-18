@@ -26,9 +26,9 @@ List and briefly explain the phases of the Software Development Life Cycle.
 6. Maintenance: After deployment, the software enters the maintenance phase, where updates, bug fixes, and new features are added over time.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is a linear, sequential approach to software development where each phase must be completed before moving on to the next while Agile is an iterative and incremental approach to software development, where work is divided into short cycles or sprints.
-In waterfall testin happens after development phase while, in Agile testing happens after each sprint.
-Waterfall is suitable for large, well-defined projects, while Agile is suitable for dynamic, evolving projects.
+- Waterfall is a linear, sequential approach to software development where each phase must be completed before moving on to the next while Agile is an iterative and incremental approach to software development, where work is divided into short cycles or sprints.
+- In waterfall testin happens after development phase while, in Agile testing happens after each sprint.
+- Waterfall is suitable for large, well-defined projects, while Agile is suitable for dynamic, evolving projects.
 Example of Scenarios;
 - Waterfall can be appropriate for Government projects or large-scale construction software systems where the requirements are fixed, thoroughly defined, and unlikely to change during the development process.
 - Agile can be appropriate for Startups or software products with evolving requirements. For instance, developing a mobile app or e-commerce platform where customer preferences, market trends, or business needs change rapidly. 
@@ -46,21 +46,21 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1. Evolving Technologies and Tools: Technology evolves quickly, and engineers need to constantly learn new frameworks, languages, and tools.
-   Strategies: Continuous Learning, Mentorship and Knowledge Sharing, Experiment with new technologies and tools to gain hands-on experience.
+   - Strategies: Continuous Learning, Mentorship and Knowledge Sharing, Experiment with new technologies and tools to gain hands-on experience.
 2. Debugging and Troubleshooting: Identifying and fixing bugs can be time-consuming and sometimes very complex, especially in large codebases.
-   Strategies: Break the Problem Down by testing smaller parts of the code, Use Debugging Tools in IDEs.
+   - Strategies: Break the Problem Down by testing smaller parts of the code, Use Debugging Tools in IDEs.
 3. Collaborating with Non-Technical Teams: Communicating technical concepts to non-technical stakeholders can be challenging.
-   Strategies: Clear and concise communication using plain language and avoiding jargon, Using visual aids by utilizing diagrams & charts to illustrate complex ideas.
+   - Strategies: Clear and concise communication using plain language and avoiding jargon, Using visual aids by utilizing diagrams & charts to illustrate complex ideas.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 1. Unit Testing: focuses on  testing individual units or components of the software in isolation.
-   Importance: Early Bug Detection - Identifies defects early in the development process, reducing the cost of fixing them later.
+   - Importance: Early Bug Detection - Identifies defects early in the development process, reducing the cost of fixing them later.
 2. Integration Testing: examines how different units interact with each other when combined into larger subsystems.
-   Importance: Detect Interface defects - Identifies defects that may arise from interactions between different parts of the system.
+   - Importance: Detect Interface defects - Identifies defects that may arise from interactions between different parts of the system.
 3.  System Testing: validates the entire system as a whole, simulating real-world usage scenarios.
-   Importance: Validates requirements - Verifies that the system meets the specified functional requirements and user expectations.
+   - Importance: Validates requirements - Verifies that the system meets the specified functional requirements and user expectations.
 4. Acceptance Testing:  validates that the software meets the business requirements and is ready for deployment.
-   Importance: Ensures Software Meets Expectations - Validates that the system meets the acceptance criteria defined in the requirements.
+   - Importance: Ensures Software Meets Expectations - Validates that the system meets the acceptance criteria defined in the requirements.
 
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -68,9 +68,9 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 - Prompt engineering is the process of structuring an instruction to guide AI models towards generating relevant and accurate responses or outcomes.
-Importance: 
-Improved Accuracy - A well-crafted prompt can significantly improve the relevance and accuracy of an AI model's response.
-Efficiency and Productivity - Effective prompts can reduce the number of iterations needed to achieve desired results, saving time and resources.
+- Importance: 
+- Improved Accuracy - A well-crafted prompt can significantly improve the relevance and accuracy of an AI model's response.
+- Efficiency and Productivity - Effective prompts can reduce the number of iterations needed to achieve desired results, saving time and resources.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 - Vague Prompt: Tell me something about technology
